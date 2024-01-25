@@ -1,4 +1,4 @@
-# [DESAFIOS NÃO OBRIGATÓRIOS] Lógica de Programação - Oracle Next Education, T6!
+# [DESAFIOS NÃO OBRIGATÓRIOS] - Lógica de Programação - Oracle Next Education, T6!
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JairoNetoDev/ONE-Desafios-LogicaProgramacao?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JairoNetoDev/ONE-Desafios-LogicaProgramacao?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 > Este projeto foi feito ao decorrer do curso "Lógica de Programação: Mergulhe em lógica de programação com JavaScript" e "Lógica de Programação: Explore Listas e Funções" da Alura em parceria com a ONE - Oracle Next Education. O princípio deste projeto é mostrar as respostas de cada desafio proposto para os cursos citados acima.
 
-### Ajustes e melhorias
+### 🪛 Ajustes e melhorias
 
 - [x] Index atualizado: "LogicaDeProgramacao-Curso-1" - Curso: Lógica de Programação: Mergulhe em lógica de programação com JavaScript.
 - [x] Nova lista de desafios: "LogicaDeProgramacao-Curso-2" - Curso: Lógica de Programação: Explore Listas e Funções.
