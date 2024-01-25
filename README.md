@@ -47,6 +47,8 @@ $ git clone https://github.com/JairoNetoDev/ONE-Desafios-LogicaProgramacao.git
 Open Folder -> PastaDesafios -> Add
 ```
 7. Lá terá as respostas de cada uma.
+   
+8. O Live Server será útil caso você queria observar os códigos pelo DevTools e como eles rodam. Para isso, clique com o botão direito do mouse e clique em "Abrir com LiveServer" ou "Open With LiverServer".
 
 ## ☕ Visualizando os Desafios | Resposta | Questões
 
