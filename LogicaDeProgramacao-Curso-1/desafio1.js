@@ -1,26 +1,28 @@
 // 1° Desfio: hora da prática
-// Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
-alert("Boas vindas ao nosso site!");
-// Declare uma variável chamada nome e atribua a ela o valor "Lua".
-let nome = "Lua";
+//1. Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
+alert("(D1-Q01) Boas vindas ao nosso site!");
+//2. Declare uma variável chamada nome e atribua a ela o valor "Lua".
+let nome = "(D1-Q01) Lua";
 // Crie uma variável chamada idade e atribua a ela o valor 25.
 let idade = 25;
-// Defina uma variável numeroDeVendas e atribua a ela o valor 50.
+//3. Defina uma variável numeroDeVendas e atribua a ela o valor 50.
 let numeroDeVendas = 50;
-// Defina uma variável saldoDisponivel e atribua a ela o valor 1000.
+//4. Defina uma variável saldoDisponivel e atribua a ela o valor 1000.
 let saldoDisponivel = 1000;
-// Exiba um alerta com o texto "Erro! Preencha todos os campos."
-alert("Erro! Preencha todos os campos");
-// Declare uma variável chamada mensagemDeErro e atribua a ela o valor "Erro! Preencha todos os campos." Agora exiba um alerta com o valor da variável mensagemDeErro.
-let mensagemDeError = "Erro! Preencha todos os campos";
+//5. Exiba um alerta com o texto "Erro! Preencha todos os campos."
+alert("(D1-Q05) Erro! Preencha todos os campos");
+//6. Declare uma variável chamada mensagemDeErro e atribua a ela o valor "Erro! Preencha todos os campos." Agora exiba um alerta com o valor da variável mensagemDeErro.
+let mensagemDeError = "(D1-Q06)Erro! Preencha todos os campos";
 alert(mensagemDeError);
-// Use um prompt para perguntar o nome do usuário e armazená-lo na variável nome.
-nome = prompt("Insira seu nome: ");
-// Peça ao usuário para digitar sua idade usando um prompt e armazene-a na variável idade.
-idade = prompt("Insira sua idade");
-// Agora, caso a idade seja maior ou igual que 18, exiba um alerta com a mensagem "Pode tirar a habilitação!".
+//7. Use um prompt para perguntar o nome do usuário e armazená-lo na variável nome.
+nome = prompt("(D1-Q07) Insira seu nome: ");
+//8. Peça ao usuário para digitar sua idade usando um prompt e armazene-a na variável idade.
+idade = prompt("(D1-Q08) Insira sua idade");
+//9. Agora, caso a idade seja maior ou igual que 18, exiba um alerta com a mensagem "Pode tirar a habilitação!".
 if (idade >= 18) {
-    alert("Pode tirar habilitação!");
+    alert("(D1-Q09) Pode tirar habilitação!");
+} else {
+    alert("(D1-Q09) Não pode tirar habilitação.");
 }
 
 
