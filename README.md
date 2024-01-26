@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/JairoNetoDev/ONE-Desafios-LogicaProgramacao?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/JairoNetoDev/ONE-Desafios-LogicaProgramacao?style=for-the-badge)
 
-> Este projeto foi feito ao decorrer do curso "Lógica de Programação: Mergulhe em lógica de programação com JavaScript" e "Lógica de Programação: Explore Listas e Funções" da Alura em parceria com a ONE - Oracle Next Education. O princípio deste projeto é mostrar as respostas de cada desafio proposto para os cursos citados acima.
+> Estes desafios foram feitos ao decorrer dos cursos "Lógica de Programação: Mergulhe em lógica de programação com JavaScript" e "Lógica de Programação: Explore Listas e Funções" da Alura em parceria com a ONE - Oracle Next Education. O princípio deste projeto é mostrar as respostas de cada desafio proposto para os cursos citados acima.
 
 ### 🪛 Ajustes e melhorias
 
